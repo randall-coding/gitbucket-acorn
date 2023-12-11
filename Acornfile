@@ -1,0 +1,8 @@
+containers: {
+    gitbucket: {
+        image: "ghcr.io/gitbucket/gitbucket"
+        ports: {
+            publish: "8080/http"
+        }
+    }
+}
