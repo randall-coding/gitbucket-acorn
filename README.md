@@ -1,7 +1,7 @@
 # Deploy self hosted Gitbucket.
 
 ## Gitbucket
-GitBucket is a simple open source Git web platform powered by Scala.  It's like having your own self hosted Github website that you can control.  Gitbucket's features include but are not limited to:  
+GitBucket is a simple open source Git web platform that let's you store your code on your own servers.  It's like having your own Github website that you can control.  Gitbucket's features include but are not limited to:  
 
 * Public / Private Git repositories (with http/https and ssh access)
 * GitLFS support
