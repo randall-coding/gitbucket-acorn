@@ -71,7 +71,19 @@ Sign in with the default root credentials `root` / `root`.
 
 To add your first repository, click the "+" sign in the top right navigation, then click "New Repository".
 
+![gitbucket_add_repo](https://github.com/randall-coding/gitbucket-acorn/assets/39175191/5da78ee6-3721-47e4-b7f7-fbbc10b50148)
 
+Fill in the form just like you would on Github
+
+![gitbucket_create_new](https://github.com/randall-coding/gitbucket-acorn/assets/39175191/3fa57edd-0a8f-4b27-a1f3-ac8f7fb9de16)
+
+To start using your new repo.  Copy the link from the repo UI shown below.
+
+![gitbucket_copy_url](https://github.com/randall-coding/gitbucket-acorn/assets/39175191/f6730fc5-e0b4-4ea7-bb37-36714457da0a)
+
+Clone the repo locally just like you would with any remote repository using that link: `git clone <copied url>`
+
+We've, just set up our self hosted remote Git repository.
 
 ## Reference
 
