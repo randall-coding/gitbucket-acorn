@@ -1,4 +1,4 @@
-# Deploy self hosted Gitbucket.
+# Deploy self hosted Gitbucket version control
 
 ## Gitbucket
 GitBucket is a simple open source Git web platform that let's you store your code on your own servers.  It's like having your own Github website that you can control.  Gitbucket's features include but are not limited to:  
