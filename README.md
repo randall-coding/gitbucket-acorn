@@ -53,11 +53,11 @@ Fill in the following fields:
 - Name: `<any name you like>`
 - Acorn Image: `ghcr.io/randall-coding/acorn/gitbucket`
 
-!! acorn deploy ui
+![acorn_deploy_ui](https://github.com/randall-coding/gitbucket-acorn/assets/39175191/d71624ac-a8fa-41df-9a43-bad84f69c96d)
 
 Visit the acorn dashboard and find your recent deployment.  Click on the name of your deployment and find the endpoint section in the right panel.  Click "copy" on the gitbucket endpoint and visit the link.
 
-!!endpoint
+![gitbucket_endpoint](https://github.com/randall-coding/gitbucket-acorn/assets/39175191/d78c8b1b-b684-4c6b-83ca-b7358942e31a)
 
 Visiting the endpoint should show a screen like this:
 
@@ -71,8 +71,10 @@ Sign in with the default root credentials `root` / `root`.
 
 To add your first repository, click the "+" sign in the top right navigation, then click "New Repository".
 
+
+
 ## Reference
 
-[Gitbucket - Wiki](https://github.com/gitbucket/gitbucket/wiki)
-[Gitbucket - Repo](https://github.com/gitbucket/gitbucket)
-[Gitbucket - Docker](https://github.com/gitbucket/gitbucket-docker)
+* [Gitbucket - Wiki](https://github.com/gitbucket/gitbucket/wiki)
+* [Gitbucket - Repo](https://github.com/gitbucket/gitbucket)
+* [Gitbucket - Docker](https://github.com/gitbucket/gitbucket-docker)
